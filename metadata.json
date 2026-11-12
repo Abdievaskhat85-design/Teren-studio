@@ -1,0 +1,6 @@
+{
+  "name": "TEREN STUDIO — Премиум жеке анимациялық фильмдер мен кино",
+  "description": "TEREN STUDIO — Қазақстандағы ерекше сәттерге (Қыз ұзату, Мерейтой, Сүндет той, Еске алу, Love Story) арналған жеке анимациялық фильмдер мен кинематографиялық бейнелер студиясы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
